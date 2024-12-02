@@ -1,4 +1,4 @@
 roles = ["frontend"]
 
 [commands]
-dev = "./dev-server.sh"
+dev = "./frontend/run.sh"
