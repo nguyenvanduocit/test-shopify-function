@@ -1,0 +1,1 @@
+You actually don't need to care about this folder, it's just to ensure the app have a frontend.

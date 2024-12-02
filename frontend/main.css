@@ -1,0 +1,16 @@
+.app-container {
+    min-height: 100vh;
+    background-color: var(--p-background);
+}
+
+.Polaris-Header {
+    padding: 1rem;
+    background-color: var(--p-surface);
+    border-bottom: 1px solid var(--p-border-subdued);
+}
+
+.Polaris-Page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+} 
